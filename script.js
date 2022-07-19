@@ -99,3 +99,9 @@ inputField.addEventListener("change", e => {
 
 //put all items in array first
 //then create for loop that runs thru array checking if user guess equals any of the items in array
+
+var collection = [];
+for(var i=0; i<10; i++)
+{
+    collection[i] = 
+}
